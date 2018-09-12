@@ -9,4 +9,4 @@ Telegram: t.me/DenzerInitiative and @DarciDenzer
 GitHub: https://github.com/Denzer-Initiative
 Blog: https://denzerinitiative.wixsite.com/english
 Twitter: https://twitter.com/DenzerInitiati1
-Facebook: https://www.facebook.com/Denzer-Initiative-533943083723115/
+Facebook: https://www.facebook.com/DenzerInitiative/
