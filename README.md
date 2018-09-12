@@ -4,9 +4,11 @@ The Denzer Initiative’s project “Ad Astra” objective is to design and prod
 
 
 Contacts:
+Website: https://denzerinitiative.com
 Email: denzerinitiative@gmail.com
 Telegram: t.me/DenzerInitiative and @DarciDenzer
 GitHub: https://github.com/Denzer-Initiative
-Blog: https://denzerinitiative.wixsite.com/english
+Blog: https://denzerinitiative.com/blog
 Twitter: https://twitter.com/DenzerInitiati1
 Facebook: https://www.facebook.com/DenzerInitiative/
+Instagram: https://www.instagram.com/denzerinitiative/
